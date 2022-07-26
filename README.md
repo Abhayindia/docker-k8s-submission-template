@@ -16,4 +16,4 @@ The container repository base will be `ghcr.io/<username>/<reponame>`. The tags 
 
 Use this naming convention while referring to images in the Kubernetes manifests.
 
-Place all the Kubernetes manifests under the [`manifests/`](manifests) directory. Utilize your github username for namespaces.
+Place all the Kubernetes manifests under the [`manifests/`](manifests) directory. Utilize your github username for namespaces
